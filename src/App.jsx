@@ -1,12 +1,11 @@
 import { useState } from 'react'
-import './App.css'
 import { students } from './students.js'
 import PickButton from './components/PickButton.jsx'
 import NameDisplay from './components/NameDisplay.jsx'
 import StudentList from './components/StudentList.jsx'
 
 function App() {
-  const [name, setName] = useState('Noch niemand ausgewählt')
+  const [name, setName] = useState('Name')
   const pickRandomName = () => {
     const randomIndex = Math.floor(Math.random() * students.length)
     setName(students[randomIndex])
