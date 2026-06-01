@@ -3,7 +3,6 @@ export const students = [
     "Julius",
     "Olha",
     "Yana",
-    "Mohammad",
     "Szymon",
     "Ali",
     "Ahmad",
@@ -12,5 +11,7 @@ export const students = [
     "Dilek",
     "Feras",
     "I-Chieh",
-    "Ines"
+    "Ines",
+    "Mohammad",
+    "Markus"
 ]
