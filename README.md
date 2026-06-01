@@ -13,6 +13,7 @@ Eine einfache React-Anwendung zur zufälligen Auswahl von Namen aus einer Liste.
 * React
 * Vite
 * JavaScript
+* Tailwind CSS
 
 ## Installation
 
